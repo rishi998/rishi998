@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 **Hi I'm Rishi Mehto**
 🔭 I’m currently working on FULL STACK Development<br>👯 I’m looking to collaborate on Software Engineering projetcs<br>🌱 I’m currently learning MERN Stack/Python<br>💬 Ask me about Backend Development<br>
 
 
